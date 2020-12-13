@@ -28,3 +28,5 @@
 * если вы руководитель - посмотрите на тренинге SAFe от ScrumTrek [Там можно попробовать научится не терять цели по пути от стратегии к задачам команд](https://scrumtrek.ru/training-map/#processes)
 
 В перспективе тут появится больше ссылок ;-)
+
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)

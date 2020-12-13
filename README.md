@@ -1,5 +1,7 @@
 # howto-be-digital
 
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aliczin.howto-be-digital.main)
+
 Смотрите что происходит:
 
 * сейчас запущены процессы цифровой транфсформации - по всему миру.

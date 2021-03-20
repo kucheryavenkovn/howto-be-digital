@@ -2,7 +2,7 @@
 # Куда это все катится - визионируем с Алексеем Лустиным
 
 > Экслюзивный стрим для Желтого Клуба
-в порядке социального поддержки деятельности «товарища Шилова» с сотоварищами
+в порядке социального поддержки деятельности «товарища Шилова» с сотоварищами
 
 https://t.me/yellowclub_official
 
@@ -42,4 +42,4 @@ https://t.me/yellowclub_official
 
 * https://t.me/yellowclub_official
 * https://t.me/ineedlustin
-* https://github.com/aliczin/howto-be-digital/discussions
+* https://github.com/aliczin/howto-be-digital/discussions/24

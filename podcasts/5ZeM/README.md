@@ -17,12 +17,16 @@
 
 чтобы звук подкаста ассоцировался с контентом
 
+### CAN
+
+* для начала https://github.com/MOTTechnologies/J2534DotNet/blob/master/OBD/FordSpecificExample.h
 ### Метрики
 
 * https://scrumtrek.ru/blog/enterprise-agility/4885/osnovnye-metriki-art-safe-na-starte/
 
 ### Kubernates
 
+* https://github.com/TheDemonCat/kubeonec
 * https://events.static.linuxfound.org/sites/events/files/slides/Managing%20Kubernetes%20with%20ManageIQ%20ContainerCon%20final.pdf
 
 ### AbstractApplication

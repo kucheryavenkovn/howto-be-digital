@@ -1,7 +1,7 @@
 ---
 presentation:
     enableSpeakerNote: true
-    theme: night.css
+    theme: black.css
     viewDistance: 3
     slideNumber: true
     #parallaxBackgroundImage: 'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg'
@@ -87,8 +87,7 @@ presentation:
 
 Типа такой
 
-
-```
+```bsl {.line-numbers}
 Функция ПолучитьСебестоимость(Роль)
 ```
 
@@ -96,7 +95,7 @@ presentation:
 
 А также такой
 
-```
+```bsl {.line-numbers}
 Функция ЗафиксироватьВременнойРядРасходов(ТипРасхода)
 ```
 
@@ -104,7 +103,7 @@ presentation:
 
 Ну и конечно такой
 
-```
+```bsl {.line-numbers}
 Функция ТрансформироватьРядРасходовВСебестоимость(
     РежимТрансформации.Онлайн)
 ```
@@ -123,7 +122,7 @@ presentation:
 
 Мы купили "сервер", Подключили к системе мониторинга утилизации, получаем `МгновенныйРасход`
 
-```
+```json {.line-numbers}
 Расход.Send {
     meta: {
         id: "hp-proliad-2545"
@@ -162,18 +161,18 @@ https://yandex.ru/maps/-/CCUUb2XF9C
 Типа таких
 
 
-```
+```bsl {.line-numbers}
 Функция ОпределитьЕдиницуИзмеренияВременногоРядаРасхода(
     ЭнтропическаяЗаписьРасхода)
 ```
 
-```
+```bsl {.line-numbers}
 Функция ЗаписатьНовыйТипРасходовВГраф()
 ```
 
 Ну и конечно такой
 
-```
+```bsl {.line-numbers}
 Функция НайтиНесвязанныеРебраГрафаРасходов(
     АдминистраторДанныхДляОпвещения)
 ```
@@ -198,8 +197,7 @@ https://yandex.ru/maps/-/CCUUb2XF9C
 
 Будет как то так
 
-```
-
+```bsl {.line-numbers}
 Процедура ПриемникРаходов()
     ПодписатьсяНаПотоки("расходы.*").
         ОбработатьТипыДанных().

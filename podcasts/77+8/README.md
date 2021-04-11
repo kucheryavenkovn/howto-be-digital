@@ -13,7 +13,9 @@ presentation:
 > 202104111100
 03
 
-https://youtu.be/I8jhxw8lVlw
+* видеотрансляция трансляция - https://youtu.be/I8jhxw8lVlw
+* звуковая дорожка - https://t.me/ineedlustin/378
+* контекст повествования - [Xmind карта](2021-04-11.md)
 
 * версия 0.9.7 - XMind в онлайне
 * выпуск 5 - "Про ускорение мира ;-)"

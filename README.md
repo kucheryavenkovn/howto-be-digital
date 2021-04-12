@@ -6,9 +6,9 @@
 
 ## О проекте
 
-* этот проект создан в виде пилотной площадки для обсуждения реальных кейсов возникающих в реальной работе у ИТ специалистов, когда спросить не у кого - а костыли делать не хочется: основное движение происход в разделе дисскуссий [https://github.com/aliczin/howto-be-digital/discussions](https://github.com/aliczin/howto-be-digital/discussions)
+* этот проект создан в виде пилотной площадки для обсуждения реальных кейсов возникающих в реальной работе у ИТ специалистов, когда спросить не у кого - а костыли делать не хочется: основное движение происходит в разделе дисскуссий [https://github.com/aliczin/howto-be-digital/discussions](https://github.com/aliczin/howto-be-digital/discussions)
 * также мы пробуем делать онлайн радио [Подкасты средствами Телеграмм](./PODCASTS.md)
-* в общем случае мы также пробуем развивавать видео-канала - а именно [Real.Alexey.Lustin-RUTUBE](https://rutube.ru/channel/23477544/) и [Alexey Lustin Social](https://www.youtube.com/c/AlexeyLustinSocial) - вот что это выльется мы не знаем, может быть останется только радио и дискуссии
+* в общем случае мы также пробуем развивать видео-каналы - а именно [Real.Alexey.Lustin-RUTUBE](https://rutube.ru/channel/23477544/) и [Alexey Lustin Social](https://www.youtube.com/c/AlexeyLustinSocial) - вот что это выльется мы не знаем, может быть останется только радио и дискуссии
 
 ## Смотрите что происходит:
 

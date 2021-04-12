@@ -1,5 +1,6 @@
 # howto-be-digital
 
+ [![Join telegram chat](https://img.shields.io/badge/chat-telegram-blue?style=flat&logo=telegram)](https://t.me/joinchat/zhwzepqDhgszMDAy)
  [![visitors](https://visitor-badge.laobi.icu/badge?page_id=aliczin.howto-be-digital.main)](https://lustin.org/ru/)
  [![patreons](https://img.shields.io/badge/dynamic/json?color=%23e85b46&label=Patreon&query=data.attributes.patron_count&suffix=%20patrons&url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F5141831)](https://patreon.com/ineedlustin)
 

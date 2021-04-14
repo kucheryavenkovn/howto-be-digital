@@ -14,3 +14,8 @@
 * Vanessa MuShaper
 * Vanessa AI
 * Vanessa Fog
+* Vanessa OMyGod - ну это и так реанимировано
+* Vanessa MiniCrystal
+* Vanessa AutoDBA
+
+то есть получается - народ только дошел до применимости старых наработок, а они уже почищены ;-)

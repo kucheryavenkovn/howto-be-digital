@@ -4,18 +4,21 @@
 
 > пока простым списком
 
-* OneScript Function
-* PG Steroids v4.0
-* OneScript LazyEco
+* OneScript Function - 
+* PG Steroids v4.0 - https://github.com/aliczin/pggy
+* OneScript LazyEco - https://github.com/aliczin/lazyeco
 * NoTestsAwaEdition (он же BlackBox Tests)
 * Vanessa Sintezator
 * Vanessa Example Mapping
-* Vanessa Big Agile
+* Vanessa Big Agile - вообще оно же метрики и OKR
 * Vanessa MuShaper
 * Vanessa AI
 * Vanessa Fog
-* Vanessa OMyGod - ну это и так реанимировано
+* Vanessa OMyGod - https://github.com/aliczin/omygod
 * Vanessa MiniCrystal
 * Vanessa AutoDBA
+* Vanessa Smart
 
 то есть получается - народ только дошел до применимости старых наработок, а они уже почищены ;-)
+
+Пора наверное от Ванессы отказываться - название опошлили ;-).

@@ -2,15 +2,17 @@
 
 > https://v2.cryptii.com/decimal/base64
 
-каждое воскресенье 11 МСК по вопросам из группы
+каждое воскресенье 11 МСК по вопросам из группы:
 
-* https://t.me/joinchat/Sc4NgDMKG0Kcc5M_
+* [Постоянная ссылка на группу Телеграмм - для подачи вопросов](https://t.me/joinchat/KcV4FmhZtfJjNmEy)
+
+![изображение](https://user-images.githubusercontent.com/56105699/116795042-b323ea80-aada-11eb-8178-782302dcd7a3.png)
 
 или из проекта
 
 * https://github.com/aliczin/howto-be-digital/discussions
 
-из из внутренней повестки проводится **голосовой чат Телеграмм** в канале
+и из внутренней повестки проводится **голосовой чат Телеграмм** в канале
 
 **https://t.me/ineedlustin**
 

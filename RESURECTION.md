@@ -30,3 +30,8 @@
 * системы объединены в граф
 * ....
 * PROFFIT !!! Придется восстановить Dropbox
+
+## Публичный долг Discovery Team
+
+* NFM - https://github.com/nanoframework/nanoframework.github.io/blob/pages-source/content/building/build-nxp.md
+* С# - BEnchmarking

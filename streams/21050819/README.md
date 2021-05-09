@@ -21,3 +21,13 @@ presentation:
 ```
 
 <!-- slide data-notes="" -->
+
+* что сохранить
+* что починить
+* а что мы вообще делали ? <!-- .element: class="fragment" data-fragment-index="2" -->
+
+<!-- slide data-notes="" -->
+
+
+
+<!-- slide vertical=true -->

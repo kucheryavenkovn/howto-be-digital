@@ -2,7 +2,6 @@
 
  [![Join telegram chat](https://img.shields.io/badge/chat-telegram-blue?style=flat&logo=telegram)](https://t.me/joinchat/zhwzepqDhgszMDAy)
  [![visitors](https://visitor-badge.laobi.icu/badge?page_id=aliczin.howto-be-digital.main)](https://lustin.org/ru/)
- [![patreons](https://img.shields.io/badge/dynamic/json?color=%23e85b46&label=Patreon&query=data.attributes.patron_count&suffix=%20patrons&url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F5141831)](https://patreon.com/ineedlustin)
  [![Boosty To](https://img.shields.io/badge/Sponsors-boosty.to-important)](https://boosty.to/ineedlustin)
  [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZHtgyfueQtLocE0NILfhnw?style=social)](https://www.youtube.com/c/AlexeyLustinSocial/videos)
 
@@ -30,6 +29,7 @@
 ## Полезные ссылки
 
 * если вы вообще не понимаете что происходит - следите за Gartner глоссарием - https://www.gartner.com/en/information-technology/glossary/ - он там набрасывает
+* если интересны маркетинговые термины "за которым деньги" - то https://www.thoughtworks.com/radar - там товаризи пытаются определить тренды технологий, полезно исследовать буковки и дальше гуглить
 * если вы стратег - то Вам например вот в эти группы на Facebook [Там можно обнаружить тренды](https://www.facebook.com/groups/2267942696763155/about)
 * если вы специалист работающий руками - то я публикую интересное в своём Телеграмм канале [https://t.me/ineedlustin](https://t.me/ineedlustin)
 * если вы руководитель - посмотрите на тренинге SAFe от ScrumTrek [Там можно попробовать научится не терять цели по пути от стратегии к задачам команд](https://scrumtrek.ru/training-map/#processes)

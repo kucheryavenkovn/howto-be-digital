@@ -1,6 +1,13 @@
 # Эксперименты с подкастами
 
-> https://v2.cryptii.com/decimal/base64
+Ближайший выпуск
+
+* драфт повестки https://github.com/aliczin/howto-be-digital/tree/main/podcasts/
+* подать вопрос https://t.me/joinchat/KcV4FmhZtfJjNmEy
+* объявить тему https://github.com/aliczin/howto-be-digital/discussions
+* поддержать проект https://boosty.to/ineedlustin
+* следить за новостями https://t.me/ineedlustin и https://vk.com/iczin.guru
+* актуальный плейлист прошедший выпусков https://youtube.com/playlist?list=PLCI1ktSAMhRo7zR-Bhryr-sIKYB29aitq
 
 каждое воскресенье 11 МСК по вопросам из группы:
 
@@ -19,7 +26,7 @@
 ## Прошедшие подкасты в обратном порядке
 
 * [09-05-2021](./podcasts/21050911) - +1 к следующему
-* [02-05-2021](./podcasts/21050211) - Ближайший
+* [02-05-2021](./podcasts/21050211) - 
 * [25-04-2021](./podcasts/4YWs/) - тематика "Про требования"
 * [18-04-2021](./podcasts/4YWs/) - **пропущенный** 
 * [11-04-2021](./podcasts/77+8/) - тематика "Неблокирующая и ролевая"
